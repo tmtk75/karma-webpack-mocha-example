@@ -1,0 +1,16 @@
+{
+  "name": "karma-webpack-mocha-example",
+  "version": "0.1.0",
+  "description": "Karma webpack mocha example",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "power-assert": "~0.10.0"
+  }
+}

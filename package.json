@@ -1,0 +1,20 @@
+{
+  "name": "karma-webpack-mocha-example",
+  "version": "0.1.0",
+  "description": "Karma webpack mocha example",
+  "license": "ISC",
+  "devDependencies": {
+    "bower": "^1.3.12",
+    "coffee-loader": "^0.7.2",
+    "coffee-script": "^1.8.0",
+    "jasmine-core": "^2.1.3",
+    "karma": "^0.12.31",
+    "karma-chrome-launcher": "^0.1.7",
+    "karma-cli": "0.0.4",
+    "karma-espower-preprocessor": "0.0.3",
+    "karma-mocha": "^0.1.10",
+    "karma-sourcemap-loader": "^0.3.2",
+    "karma-webpack": "1.3.1",
+    "webpack": "^1.4.15"
+  }
+}
